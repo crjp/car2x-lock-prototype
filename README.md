@@ -1,1 +1,1 @@
-init
+Lego-based Protoype of the Car Sharing Lock mechanism.
